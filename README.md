@@ -15,7 +15,7 @@ asimov-collection
 
 ### Model and Collection
 
-The Model and Collection classes are modified versions of [Backbone](http://backbonejs.org)'s implementation, please check out their [docs](http://backbonejs.org).
+The Model and Collection classes are modified versions of [Backbone](http://backbonejs.org)'s RESTful model and collection implementations, please check out their [docs](http://backbonejs.org) to learn the basics.
 
 ### FileModel
 
