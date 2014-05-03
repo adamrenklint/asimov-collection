@@ -1,6 +1,6 @@
 {
   "name": "asimov-collection",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "http://asimovjs.org",
   "description": "Collection and model classes for asimov.js",
   "author": "Adam Renklint <adam@renklint.com> (http://adamrenklint.com)",
@@ -16,10 +16,10 @@
     "url": "https://github.com/adamrenklint/asimov-collection/issues"
   },
   "dependencies": {
-    "asimov-core": "^0.1.4",
+    "asimov-core": "latest",
     "lodash": "^2.4.1"
   },
   "devDependencies": {
-    "asimov-test": "^0.2.2"
+    "asimov-test": "latest"
   }
 }
