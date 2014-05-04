@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2
+
+  - **Released Sunday May 4th, 2014 @ 8.25pm**
+  - Fixed issue with missing reference to mediator object
+
 ## 0.1.1
 
   - **Released Sunday May 4th, 2014 @ 8.20pm**
