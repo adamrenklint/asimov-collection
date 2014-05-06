@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3
+
+  - **Released Tuesday May 6th, 2014 @ 1.30pm**
+  - Reversed order of fetching file models, now fetches the deepest children first and work its way back up to the root
+
 ## 0.1.2
 
   - **Released Sunday May 4th, 2014 @ 8.25pm**
